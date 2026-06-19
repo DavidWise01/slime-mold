@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tube Reinforcement",
+  "universe": "SLM · Tube Reinforcement (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Tube Reinforcement:SLM:2374bf⟧",
+  "carbon": "tube-reinforcement.carbon.tiff (TIFF)",
+  "silicon": "tube-reinforcement.silicon.png (PNG)",
+  "seal_sha256": "d2b636fb77a9a0a3bd7ae4201b530dcb044cad93058ba9e1d20794996f02bce5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

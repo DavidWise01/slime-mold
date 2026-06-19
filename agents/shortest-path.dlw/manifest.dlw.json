@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Shortest Path",
+  "universe": "SLM · Shortest Path (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Shortest Path:SLM:7aa737⟧",
+  "carbon": "shortest-path.carbon.tiff (TIFF)",
+  "silicon": "shortest-path.silicon.png (PNG)",
+  "seal_sha256": "ab0a94b6241d7cf53de7c778fb71727f19efcd8df68c7fa1869454215fa9dff8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

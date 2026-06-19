@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Physarum Solver",
+  "universe": "SLM · The Physarum Solver (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Physarum Solver:SLM:c78e36⟧",
+  "carbon": "the-physarum-solver.carbon.tiff (TIFF)",
+  "silicon": "the-physarum-solver.silicon.png (PNG)",
+  "seal_sha256": "e10ffd120784a7bad45653c8d22ff780c01439a96cb29d8f87424878230296ea",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

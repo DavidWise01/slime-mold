@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Blob",
+  "universe": "SLM · The Blob (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Blob:SLM:1f9b07⟧",
+  "carbon": "the-blob.carbon.tiff (TIFF)",
+  "silicon": "the-blob.silicon.png (PNG)",
+  "seal_sha256": "19664bba8d746cc8dc3033bf0c541142c4d101de68ae9fbd2c7ab8ab5d2b89b4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

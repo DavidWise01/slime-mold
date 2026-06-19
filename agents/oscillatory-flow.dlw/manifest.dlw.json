@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Oscillatory Flow",
+  "universe": "SLM · Oscillatory Flow (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Oscillatory Flow:SLM:efe2d8⟧",
+  "carbon": "oscillatory-flow.carbon.tiff (TIFF)",
+  "silicon": "oscillatory-flow.silicon.png (PNG)",
+  "seal_sha256": "69a1831e33c13184b6b8b6c5f6b51b3c57804c7eb6eeb95f3621b32ed2dbf20f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

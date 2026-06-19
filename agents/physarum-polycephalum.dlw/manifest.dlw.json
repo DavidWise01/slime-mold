@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Physarum polycephalum",
+  "universe": "SLM · Physarum polycephalum (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Physarum polycephalum:SLM:f33881⟧",
+  "carbon": "physarum-polycephalum.carbon.tiff (TIFF)",
+  "silicon": "physarum-polycephalum.silicon.png (PNG)",
+  "seal_sha256": "22e59c9ea87a599ea20afccaa93670ab96cea8a914ddbf1957542b4fdff4bfab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

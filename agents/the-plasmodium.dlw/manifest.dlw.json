@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Plasmodium",
+  "universe": "SLM · The Plasmodium (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Plasmodium:SLM:bb89e1⟧",
+  "carbon": "the-plasmodium.carbon.tiff (TIFF)",
+  "silicon": "the-plasmodium.silicon.png (PNG)",
+  "seal_sha256": "a0a4db8eb0ddfd2970f9cdd42d5cdb116f423e72a81b6058f932afaa429547ad",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

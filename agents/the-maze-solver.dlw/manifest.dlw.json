@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Maze Solver",
+  "universe": "SLM · The Maze Solver (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Maze Solver:SLM:ce9f48⟧",
+  "carbon": "the-maze-solver.carbon.tiff (TIFF)",
+  "silicon": "the-maze-solver.silicon.png (PNG)",
+  "seal_sha256": "e7a732c3013b42aa1cfbbb454ecc71100456757ce173997376acce88d3edd2d1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

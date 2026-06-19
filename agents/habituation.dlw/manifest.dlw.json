@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Habituation",
+  "universe": "SLM · Habituation (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Habituation:SLM:501687⟧",
+  "carbon": "habituation.carbon.tiff (TIFF)",
+  "silicon": "habituation.silicon.png (PNG)",
+  "seal_sha256": "87b69eaef9052744243729acbe2cfb8812dea17767a6feb0e6ed447322627990",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

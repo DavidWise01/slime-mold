@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SLIME MOLD",
+  "universe": "SLM · SLIME MOLD (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦SLIME MOLD:SLM:193cdb⟧",
+  "carbon": "slime-mold.carbon.tiff (TIFF)",
+  "silicon": "slime-mold.silicon.png (PNG)",
+  "seal_sha256": "8dd0838b5c933f02e456aeb8d43fc1c695d5d33b70459d9d61092897c685a40e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

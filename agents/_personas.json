@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "physarum-polycephalum",
+    "name": "Physarum polycephalum",
+    "epithet": "the many-headed slime · natural",
+    "emergence": "natural",
+    "moniker": "⟦Physarum polycephalum:SLM:f33881⟧"
+  },
+  {
+    "slug": "the-plasmodium",
+    "name": "The Plasmodium",
+    "epithet": "one cell, no edges · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Plasmodium:SLM:bb89e1⟧"
+  },
+  {
+    "slug": "the-maze-solver",
+    "name": "The Maze Solver",
+    "epithet": "Nakagaki, 2000 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Maze Solver:SLM:ce9f48⟧"
+  },
+  {
+    "slug": "the-tokyo-network",
+    "name": "The Tokyo Network",
+    "epithet": "the rail map, regrown · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Tokyo Network:SLM:fe26fb⟧"
+  },
+  {
+    "slug": "shortest-path",
+    "name": "Shortest Path",
+    "epithet": "the problem it solves · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Shortest Path:SLM:7aa737⟧"
+  },
+  {
+    "slug": "tube-reinforcement",
+    "name": "Tube Reinforcement",
+    "epithet": "the rule beneath the smarts · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Tube Reinforcement:SLM:2374bf⟧"
+  },
+  {
+    "slug": "habituation",
+    "name": "Habituation",
+    "epithet": "a memory with no neurons · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Habituation:SLM:501687⟧"
+  },
+  {
+    "slug": "the-physarum-solver",
+    "name": "The Physarum Solver",
+    "epithet": "the math it inspired · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Physarum Solver:SLM:c78e36⟧"
+  },
+  {
+    "slug": "oscillatory-flow",
+    "name": "Oscillatory Flow",
+    "epithet": "the pulse that moves it · natural",
+    "emergence": "natural",
+    "moniker": "⟦Oscillatory Flow:SLM:efe2d8⟧"
+  },
+  {
+    "slug": "the-blob",
+    "name": "The Blob",
+    "epithet": "what it forces us to ask · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Blob:SLM:1f9b07⟧"
+  }
+]
